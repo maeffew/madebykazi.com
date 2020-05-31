@@ -2230,7 +2230,8 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
     background-color: #f4f4f4;
     overflow: hidden;
     transform: translateY(300vh) rotate(-90deg);
-    transition:transform .6s cubic-bezier(0, 0, .2, 1)
+    transition:transform .6s cubic-bezier(0, 0, .2, 1);
+    height: 100vh;
 }
 
 .is-invert .c-newspaper_container {
@@ -2280,7 +2281,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
 
 @media (max-width: 699px) {
     .c-newspaper_header_title {
-        font-size: 27vw;
+        font-size: 16vw;
         line-height:1
     }
 }
