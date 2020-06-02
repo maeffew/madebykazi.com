@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Rekki-Medium';
+    src: url('/assets/fonts/DiatypeREKKI-MediumTabnumbers.woff2') format('woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Rekki-Regular';
+    src: url('/assets/fonts/DiatypeREKKI-RegularTabnumbers.woff2') format('woff2');
+    font-weight: 400;
+}
