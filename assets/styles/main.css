@@ -1,5 +1,5 @@
 @import url('helvetica-now.css');
- 
+ @import url('../fonts/REKKI.css')
 
 @charset "UTF-8";
 /*!normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css*/
@@ -36,7 +36,7 @@ img {
 }
 
 button, input, optgroup, select, textarea {
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-size: 100%;
     line-height: 1.15;
     margin:0
@@ -172,7 +172,7 @@ textarea {
 html {
     min-height: 100%;
     color: #1a1a1a;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     line-height: 1.33333;
     background-color: #f4f4f4;
     -webkit-font-smoothing: antialiased;
@@ -606,7 +606,7 @@ hr {
 }
 
 .c-header_heading {
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight:500
 }
 
@@ -687,7 +687,7 @@ hr {
 }
 
 .c-header_invert {
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     margin-right: 2.22222rem;
     -webkit-tap-highlight-color:transparent
 }
@@ -1008,7 +1008,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
     position: absolute;
     bottom: 1.66667rem;
     right: 50%;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     -webkit-writing-mode: vertical-rl;
     -ms-writing-mode: tb-rl;
     writing-mode: vertical-rl;
@@ -1232,7 +1232,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
 }
 
 .c-nav_panel_footer {
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 .c-nav_panel_links.-bold {
@@ -1328,7 +1328,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
     height: 2.66667rem;
     padding: 0 1.33333rem;
     border-radius: 1.38889rem;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -1481,7 +1481,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
 
 .c-form_checkboxLabel, .c-form_label, .c-form_radioLabel {
     display: block;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 @media (min-width: 700px) {
@@ -1494,7 +1494,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
     padding: .55556rem;
     background-color: transparent;
     border-bottom: 1px solid rgba(26, 26, 26, .25);
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     transition:border-color .3s cubic-bezier(0, 0, .2, 1)
 }
 
@@ -1840,7 +1840,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight:500
 }
 
@@ -2057,7 +2057,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
 }
 
 .c-section_footer {
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 @media (max-width: 699px) {
@@ -2895,7 +2895,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
     position: relative;
     display: flex;
     text-transform: uppercase;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight: 500;
     margin:0 auto
 }
@@ -3359,7 +3359,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
 
 .c-fontBook_menu {
     position: relative;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight: 500;
     z-index: 10;
     background-color:#f4f4f4
@@ -3460,7 +3460,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
     position: relative;
     content: "↓";
     font-size: 1.66667rem;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     margin-right: 1.66667rem;
     transition:transform .3s cubic-bezier(0, 0, .2, 1)
 }
@@ -3706,7 +3706,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
 }
 
 .c-fontPanels_title {
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight:400
 }
 
@@ -3996,7 +3996,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
     position: absolute;
     right: 0;
     bottom: -2.22222rem;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-size:.77778rem
 }
 
@@ -4225,7 +4225,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
 }
 
 .c-credits {
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     text-align: left;
     margin-bottom:1.66667rem
 }
@@ -4354,7 +4354,7 @@ html:not(.is-mobile) .c-header_invert:hover .c-header_invert_dot:after {
 
 .c-footer_credits {
     font-size: .83333rem;
-    font-family: 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'REKKI-regular', 'Helvetica Now Display', Neue Helvetica W02, Helvetica Neue, Helvetica, Arial, sans-serif;
     mix-blend-mode: difference;
     color:#fff
 }
